@@ -36,6 +36,11 @@ body{
     margin: 0;
 }
 
+#err-link{
+    color: white;
+    text-decoration: none;
+}
+
 .header{
     height: 100px;
     background-image: url(images/dirt.jpg);
@@ -86,6 +91,14 @@ body{
 }
 .pictures-div{
     
+}
+#addon {
+    text-decoration-style: unset;
+    text-decoration: none;
+    color: white;
+}
+.this_is_crazy_addon h1{
+    color: white;
 }
 
 #planebadge-position{
